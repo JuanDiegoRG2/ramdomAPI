@@ -1,0 +1,23 @@
+.favoritos {
+    margin: 20px;
+  }
+  
+  .lista-favoritos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .item-favorito {
+    background-color: #e3f2fd;
+    padding: 10px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .item-favorito img {
+    border-radius: 50%;
+  }
+  
